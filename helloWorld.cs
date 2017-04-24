@@ -5,6 +5,8 @@ namespace HelloWorld
         public static void main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Press any key to continue...");
+            System.Console.ReadLine();
         }
     }
 }
